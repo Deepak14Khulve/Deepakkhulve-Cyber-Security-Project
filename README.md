@@ -59,7 +59,7 @@ This project involves creating a steganographic system to embed confidential tex
    - Run the script and follow the prompts to input your password.
    - The script will display the hidden message.
 
-   ---
+---
 
 ## Tools and Libraries
 
