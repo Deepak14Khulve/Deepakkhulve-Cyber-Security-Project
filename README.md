@@ -77,7 +77,7 @@ To copy or clone this repository to your local machine, use the following comman
 
 ```bash
 # Clone the repository
-git clone https://github.com/Deepak14Khulve/Deepakkhulve-Cyber-Security-Project
+git clone https://github.com/Deepak14Khulve/Deepakkhulve-Cyber-Security-Project.git
 
 # Change directory to the cloned repository
 cd Deepakkhulve-Cyber-Security-Project
