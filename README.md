@@ -66,6 +66,8 @@ This project involves creating a steganographic system to embed confidential tex
 - Python
 - Open cv2
 - string
+- OS
+- Hardware Requirements: Decent CPU, Ample RAM, Fast storage (SSD).
 
 ---
 
